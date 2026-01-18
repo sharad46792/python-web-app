@@ -9,5 +9,6 @@ COPY . .
 
 EXPOSE 2000
 
-CMD ["python", "/home/ubuntu/workspace/python-app/app.py"]
+CMD ["python", "/python-app/app.py"]
+
 
